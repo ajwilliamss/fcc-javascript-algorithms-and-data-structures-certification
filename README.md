@@ -1,6 +1,6 @@
 # JavaScript Algorithms and Data Structures Certification
 
-All the projects I completed to earn the freeCodeCamp JavaScript Algorithms and Data Structures Certification.
+All the projects I completed to earn the freeCodeCamp JavaScript Algorithms and Data Structures Certification in December 2021.
 
 # Description
 
